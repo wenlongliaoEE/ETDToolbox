@@ -14,7 +14,7 @@ The toolbox consists of four main components:
 2. Raw Data
    Real household power load profiles from Block 1 of smart meters in the Low Carbon London project.
    
-3 Generated Data
+3. Generated Data
    The dataset generated from raw data, as used by the authors in their research. Users can directly utilize this dataset.
 
 4. Original Codes
